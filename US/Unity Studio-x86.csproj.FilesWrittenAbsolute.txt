@@ -1,0 +1,11 @@
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity_Studio.ExportOptions.resources
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity_Studio.Properties.Resources.resources
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity_Studio.Resource1.resources
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity_Studio.ShaderResource.resources
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity_Studio.UnityStudioForm.resources
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/bin/x86/Debug/Unity Studio.exe.config
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/bin/x86/Debug/Unity Studio.pdb
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/bin/x86/Debug/Unity Studio.exe
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity Studio.exe
+/Users/mofei/unlimitecode/UnityStudio/Unity Studio/obj/x86/Debug/Unity Studio.pdb
