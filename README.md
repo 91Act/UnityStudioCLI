@@ -12,9 +12,9 @@ Unity Studio is a tool for exploring, extracting and exporting assets from Unity
 
 ## Requirements 
 
-Currently tested in macOS(10.12.6) only.
+Currently tested in macOS only (10.12.6, 10.13.6) .
 
-[Mono package 5.4.1.6](https://www.mono-project.com/download/)
+Install [Mono package 5.4.1.6](https://www.mono-project.com/download/) first.
 
 
 ## Usage
